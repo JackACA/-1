@@ -1,0 +1,38 @@
+body {
+    font-family: 'ZCOOL XiaoWei', serif;
+    background: #6d6f72;
+}
+
+.bankName {
+    background: #313235;
+    color: white;
+    padding: 10px;
+    border-top: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputs {
+    margin-top: 15px;
+}
+
+.buttonDiv {
+    margin: 50px;
+    text-align: center;
+}
+
+.heading {
+    background: #313235;
+    color: white;
+    border: 5px solid white;
+}
+
+p {
+    margin: 10px;
+}
+
+.ledgerBorder {
+    border-bottom: 1px solid black;
+}
